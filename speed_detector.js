@@ -1,3 +1,4 @@
+//Evaluates a driver's speed and provides feedback determined by points acquired.
 function detector(speed){
     const speedLimit = 70;
     const pointLimit = 12;

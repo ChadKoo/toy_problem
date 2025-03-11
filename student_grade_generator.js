@@ -1,3 +1,4 @@
+//Outputs the corresponding grade based on predefined parameters.
 function grade(marks){
     if(marks > 79){
         return "A"
